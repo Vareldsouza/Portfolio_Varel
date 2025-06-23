@@ -31,16 +31,23 @@ My CV in [pdf](https://github.com/Vareldsouza/Portfolio_Varel/blob/main/Varel%20
 
 ## Projects
 
-### Project 1: Comprehensive analysis of AI job market trends in 2025
-**Code:** [Notebook Link](https://github.com/Vareldsouza/Portfolio_Varel/blob/main/AI%20Job%20market%20exploration.ipynb)
+## Project 1: Comprehensive Analysis of AI Job Market Trends in 2025
+
+**Code:** [AI Job Market Analysis.ipynb](your-notebook-url)
+
 **Goal:** To explore and analyze the AI job market landscape, identifying key salary trends and factors that influence compensation in AI-related roles.
-**Description:** [Which AI job titles offer the highest salaries? (Top 10 roles by median salary)
-How does remote work flexibility impact compensation? (Salary comparison across No Remote, Hybrid, and Fully Remote positions)
-Which countries/locations offer the best AI salaries? (Geographic salary analysis)
-Does education level correlate with higher AI salaries? (Education requirements vs. compensation)]
-**Skills:** Visualization, statistical analysis
+
+**Key Questions:**
+- Which AI job titles offer the highest salaries?
+- How does remote work flexibility impact compensation?
+- Which countries/locations offer the best AI salaries?
+- Does education level correlate with higher AI salaries?
+
+**Skills:** Data visualization, statistical analysis, exploratory data analysis
+
 **Technology:** Python, Pandas, Seaborn, Matplotlib
-**Results:** [Key findings and insights]
+
+**Results:** [View detailed findings and insights](link-to-results)
 
 
 ## Education
