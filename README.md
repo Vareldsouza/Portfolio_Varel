@@ -1,6 +1,6 @@
 # Portfolio_Varel
 
-##About Me
+## About Me
 Hey there! I'm Varel, a data enthusiast who loves turning numbers into stories that actually matter.
 What you'll find here 🔍
 This repository showcases my journey from academic research to real-world business applications. Whether it's analyzing complex datasets or building dashboards that drive decisions, I enjoy making data work for people.
@@ -31,30 +31,26 @@ My CV in [pdf](https://github.com/Vareldsouza/Portfolio_Varel/blob/main/Varel%20
 
 ## Projects
 
-### Project 1: []
-**Code:** `retail-analysis.ipynb`
-**Goal:** Analyze product performance and inventory trends
-**Description:** [Brief description of what you analyzed]
-**Skills:** Data cleaning, visualization, statistical analysis
-**Technology:** Python, Pandas, Power BI
+### Project 1: [Comprehensive analysis of AI job market trends in 2025]
+**Code:** `[https://github.com/Vareldsouza/Portfolio_Varel/blob/main/AI%20Job%20market%20exploration.ipynb]
+**Goal:** To explore and analyze the AI job market landscape, identifying key salary trends and factors that influence compensation in AI-related roles.
+**Description:** [Which AI job titles offer the highest salaries? (Top 10 roles by median salary)
+How does remote work flexibility impact compensation? (Salary comparison across No Remote, Hybrid, and Fully Remote positions)
+Which countries/locations offer the best AI salaries? (Geographic salary analysis)
+Does education level correlate with higher AI salaries? (Education requirements vs. compensation)]
+**Skills:** Visualization, statistical analysis
+**Technology:** Python, Pandas, Seaborn, Matplotlib
 **Results:** [Key findings and insights]
 
-### Project 2: [Sales Dashboard]
-**Goal:** Create interactive dashboard for sales monitoring
-**Technology:** Power BI, SQL
-**Results:** [What the dashboard achieved]
-
-[Add more projects...]
 
 ## Education
 - **Master of Science in Cosmology** - University of Sussex, UK (2024)
 - **Bachelor of Science in Physics** - Parvatibai Chowgule College, India (2022)
 
 ## Certificates
-- Regression Analysis: Simplify Complex Data Relationships
-- The Nuts and Bolts of Machine Learning
+- Foundations of Data Science (https://coursera.org/share/fb4712f6a6d7f590afe93c2e7fcb1694)
 
 ## Contact
-- **Email:** vareldsouza17@gmail.com
+- **Email:** (vareldsouza17@gmail.com)
 - **Location:** Hounslow, UK
-- **LinkedIn:** [Your LinkedIn profile]
+- **LinkedIn:** (https://www.linkedin.com/in/varel-dsouza-a83289272/)
