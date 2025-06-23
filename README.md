@@ -21,7 +21,7 @@ Feel free to explore my projects and reach out if you'd like to chat about data,
 
 # Data Analysis Portfolio
 
-My CV in [pdf](link-to-your-cv.pdf).
+My CV in [pdf](https://github.com/Vareldsouza/Portfolio_Varel/blob/main/Varel%20Dsouza%20CV.pdf).
 
 ## Technical Skills
 - **Programming:** Python, SQL
@@ -31,7 +31,7 @@ My CV in [pdf](link-to-your-cv.pdf).
 
 ## Projects
 
-### Project 1: [Retail Inventory Analysis]
+### Project 1: []
 **Code:** `retail-analysis.ipynb`
 **Goal:** Analyze product performance and inventory trends
 **Description:** [Brief description of what you analyzed]
