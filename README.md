@@ -1,5 +1,6 @@
 # Portfolio_Varel
 
+##About Me
 Hey there! I'm Varel, a data enthusiast who loves turning numbers into stories that actually matter.
 What you'll find here 🔍
 This repository showcases my journey from academic research to real-world business applications. Whether it's analyzing complex datasets or building dashboards that drive decisions, I enjoy making data work for people.
@@ -16,3 +17,44 @@ Whether it's tracking inventory, measuring performance, or finding insights in m
 Feel free to explore my projects and reach out if you'd like to chat about data, analytics, or anything in between! ☕
 
 "Good data tells a story. Great data tells a story that leads to action."
+
+
+# Data Analysis Portfolio
+
+My CV in [pdf](link-to-your-cv.pdf).
+
+## Technical Skills
+- **Programming:** Python, SQL
+- **Visualization:** Power BI, Tableau, Excel
+- **Analysis:** Statistical modeling, Data cleaning, KPI tracking
+- **Tools:** Linux, Microsoft Windows
+
+## Projects
+
+### Project 1: [Retail Inventory Analysis]
+**Code:** `retail-analysis.ipynb`
+**Goal:** Analyze product performance and inventory trends
+**Description:** [Brief description of what you analyzed]
+**Skills:** Data cleaning, visualization, statistical analysis
+**Technology:** Python, Pandas, Power BI
+**Results:** [Key findings and insights]
+
+### Project 2: [Sales Dashboard]
+**Goal:** Create interactive dashboard for sales monitoring
+**Technology:** Power BI, SQL
+**Results:** [What the dashboard achieved]
+
+[Add more projects...]
+
+## Education
+- **Master of Science in Cosmology** - University of Sussex, UK (2024)
+- **Bachelor of Science in Physics** - Parvatibai Chowgule College, India (2022)
+
+## Certificates
+- Regression Analysis: Simplify Complex Data Relationships
+- The Nuts and Bolts of Machine Learning
+
+## Contact
+- **Email:** vareldsouza17@gmail.com
+- **Location:** Hounslow, UK
+- **LinkedIn:** [Your LinkedIn profile]
