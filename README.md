@@ -51,7 +51,7 @@ My CV in [pdf](https://github.com/Vareldsouza/Portfolio_Varel/blob/main/Varel%20
 
 **Technology:** Python, Pandas, Seaborn, Matplotlib
 
-**Results:** [View detailed findings and insights](https://github.com/Vareldsouza/Portfolio_Varel/blob/main/AI%20Job%20Market%20Trends_Results.pdf)
+**Results:** [View detailed findings and insights](https://github.com/Vareldsouza/Portfolio_Varel/blob/main/AI%20Job%20Market%20Analysis_Results.pdf)
 
 
 ## Education
