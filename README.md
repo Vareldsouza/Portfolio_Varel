@@ -3,6 +3,8 @@
 ## About Me
 Hey there! I'm Varel, a data enthusiast who loves turning numbers into stories that actually matter.
 What you'll find here 🔍
+
+
 This repository showcases my journey from academic research to real-world business applications. Whether it's analyzing complex datasets or building dashboards that drive decisions, I enjoy making data work for people.
 My toolkit includes:
 
